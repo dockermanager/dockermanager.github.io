@@ -1,7 +1,7 @@
 
 * [快速启动](start/index.md)
-  * [manager](start/index.md)
-  * [agent](start/agent.md)
+  * [docker-manager](start/index.md)
+  * [docker-agent](start/agent.md)
 * [构建流程](deploy/index.md)
 * 依赖介绍
   * [rysnc](dependency/rsync.md)

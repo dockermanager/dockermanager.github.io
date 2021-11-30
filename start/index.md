@@ -1,4 +1,4 @@
-### Quick start：
+### docker-manager
 
 ```
 docker pull xiaojun207/docker-manager:1.0.5

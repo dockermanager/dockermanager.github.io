@@ -1,5 +1,5 @@
 
-### docker-agent quick-start
+### docker-agent
 
 ```
 docker pull xiaojun207/docker-agent:latest
