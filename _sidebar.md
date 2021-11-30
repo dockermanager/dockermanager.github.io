@@ -4,12 +4,8 @@
   * [docker-agent](start/agent.md)
 * [功能介绍](function/index.md)
 * 依赖介绍
-  * [rysnc](dependency/rsync.md)
-  * [构建通知](dependency/notice.md)
-* 参与开发
-  * [PR](develop/pr.md)
-  * [前端](develop/frontend.md)
-  * [后端](develop/backend.md)
+  * [mysql](dependency/mysql.md)
+* [账号说明](user/index.md)
 * 常见问题
   * [安装问题](question/install.md)
   * [使用问题](question/use.md)
