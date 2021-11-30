@@ -1,7 +1,5 @@
 
 * [快速启动](start/index.md)
-  * [docker-manager](start/index.md)
-  * [docker-agent](start/agent.md)
 * [功能介绍](function/index.md)
 * 依赖介绍
   * [mysql](dependency/mysql.md)
