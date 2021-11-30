@@ -1,2 +1,3 @@
 * [首页](https://dockermanager.github.io)
-* [中文](/)
+* [English](/)
+* [中文](/README_ZH.md)
